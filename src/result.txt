@@ -1,0 +1,15 @@
+insert Jack Aitken
+insert conny Andersson
+insert René arnoux
+insert clemar bucci
+Invalid Command
+insert Bernard de Dryver
+René Arnoux Bernard de Dryver Clemar Bucci Conny Andersson Jack Aitken
+found clemar Bucci
+removed Bernard de dryver
+remove failed
+removed rené arnoux
+Invalid Command
+Clemar Bucci Conny Andersson Jack Aitken
+insert A. j. Foyt
+A. J. Foyt Clemar Bucci Conny Andersson Jack Aitken
