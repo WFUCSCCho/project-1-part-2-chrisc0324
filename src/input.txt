@@ -1,25 +1,25 @@
 
-insert 111
-             insert 23
+insert Jack Aitken
+             insert conny Andersson
 
-insert 99
-insert         4
+insert René arnoux
+insert         clemar bucci
 
 isEmpty
 
-    insert     111
+    insert     Bernard de Dryver
 
 print
 
 
-search 9
+search clemar Bucci
 
-remove 23
+remove Bernard de dryver
 
-remove 4
-remove 999999
+remove Piero Drogo
+remove rené arnoux
 isEmptyasfh
 print
 
-insert 123
+insert A. j. Foyt
 print
